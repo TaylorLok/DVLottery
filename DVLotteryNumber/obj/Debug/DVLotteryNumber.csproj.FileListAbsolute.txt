@@ -1,0 +1,6 @@
+C:\Users\Taylor\source\repos\DVLotteryNumber\DVLotteryNumber\bin\Debug\DVLotteryNumber.exe.config
+C:\Users\Taylor\source\repos\DVLotteryNumber\DVLotteryNumber\bin\Debug\DVLotteryNumber.exe
+C:\Users\Taylor\source\repos\DVLotteryNumber\DVLotteryNumber\bin\Debug\DVLotteryNumber.pdb
+C:\Users\Taylor\source\repos\DVLotteryNumber\DVLotteryNumber\obj\Debug\DVLotteryNumber.csprojAssemblyReference.cache
+C:\Users\Taylor\source\repos\DVLotteryNumber\DVLotteryNumber\obj\Debug\DVLotteryNumber.exe
+C:\Users\Taylor\source\repos\DVLotteryNumber\DVLotteryNumber\obj\Debug\DVLotteryNumber.pdb
